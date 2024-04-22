@@ -1,5 +1,5 @@
-*** ./build/test/breqn-order-1.luatex.tlg	2024-04-22 04:05:39.786028372 +0000
---- ./build/test/breqn-order-1.luatex.log	2024-04-22 04:05:42.814049036 +0000
+*** ./build/test/breqn-order-1.luatex.tlg	2024-04-22 04:09:26.227040927 +0000
+--- ./build/test/breqn-order-1.luatex.log	2024-04-22 04:09:30.415043024 +0000
 ***************
 *** 291,310 ****
   LaTeX Font Info:    ... okay on input line ....
