@@ -13,4 +13,3 @@ tests/out
 *.toc
 hidden
 .DS_Store
-build/*
