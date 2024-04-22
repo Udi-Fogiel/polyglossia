@@ -23,7 +23,7 @@ jobs:
         run: l3build install
       - name: Check test files
         run: l3build check breqn-order-1 breqn-order-2
-      - name: Commit and push changes
+      - name: Commit and push changes a
       	if: always()
         uses: devops-infra/action-commit-push@master
         with:
