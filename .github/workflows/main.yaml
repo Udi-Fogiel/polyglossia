@@ -27,5 +27,5 @@ jobs:
         if: always()
         uses: devops-infra/action-commit-push@master
         with:
-          github_token: ${{ secrets._TOKEN }}
+          github_token: ${{ secrets.TOKEN }}
           commit_message: Replaced foo with bar
